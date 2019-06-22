@@ -1,0 +1,66 @@
+==================================================================
+https://keybase.io/dnlggr
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://dnlggr.xyz
+  * I am dnlggr (https://keybase.io/dnlggr) on keybase.
+  * I have a public key with fingerprint 20E9 35F5 1056 D1AF DD26  B7D4 50A9 BAF9 33AE 5D32
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01015a5f6162296d4bc418b8d687361865471775649893ca285f3c85bc3d1d1415990a",
+      "fingerprint": "20e935f51056d1afdd26b7d450a9baf933ae5d32",
+      "host": "keybase.io",
+      "key_id": "50a9baf933ae5d32",
+      "kid": "01015a5f6162296d4bc418b8d687361865471775649893ca285f3c85bc3d1d1415990a",
+      "uid": "22d8b1d3207ef761cd5480a47e917719",
+      "username": "dnlggr"
+    },
+    "service": {
+      "hostname": "dnlggr.xyz",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1561196440,
+  "expire_in": 157680000,
+  "prev": "3dee248f9258d85e05ddbb2bfaa2e43b951b92d69f2eec814377c5fce75c21c3",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUltIFUEYPpaimVoU1UM3XZJCVHZ2d3ZnT5RECiWKFD0UFsedndnjou2edtdT
+3pAoqKhIMy26nuwCBRGVdMEQklLULoq9hEUXzkM3jC5QUWCzUg9Bj83LMN983/d/
+/8/fnD45kJLQO5LaWRjrakgYfIMDm9K/nqvnsE1quWA9V0UnLlpNqOuFqkzCBTke
+8ABq0JCBLAiqTCSsSwBhRGSkiDJAMpQUoChQllSkiromIGiIOoJYFwkgQAJQVXmN
+y+UM0wpTJ+KYlsdsBZ6qIjQg4KFMgGYQIshYIRLkNRVrhiqKGoVEFJiw0nZ9BQuH
+NZfmmzbD2CM0Ee8f/P+cu2bCThAIwoAV4BVqKDLQCZQQr0kKVZkLUH2iSx1L20wZ
+m1jV4bDDNeZyDIuaOvXH6vfx13/+tto6pos4tmfrdjXDKz0v4gZ9nVcb8YlbKQ79
+tghh0yJshkwRpY5r2hYXBIype6bvCaAMgCpLEp/L0W0R06Eh02dARUY8O34dGmWW
+IqFUkJChCnAdIghSHhKCsYANTROoJGIVAqwKRFYNgVIdAUlUFB0aOlWgLgBd5Pyu
+tlg2F1RYTi3MPF0zbGlejUO5xtQ9CWJiICElMH92VmJZ6/dAbPBe1/OSyOE/e5c0
+yV+6QOqU6X+QumXJ4yunvVO25LVF84puWXOH4sEl64o3znhTcmHXwtGcIwO93Xd2
+XyrZOV6kfDqz6Oeq4qb3ZfPGip89NU8MtFUWpEle+u2bobI7uPXL0o5elLH8xv0N
+OSh5sCde0P0jC9ZmzHy94NHShvDR4Za21c3L1ux+WZiWdvDkudSVHdfu9d0tH2pO
+j+vxxqc1S1r7Yol7xz6uJcg9jmJnthvx0/tKA9GPPw/lx2FT5mLaYx8ofzy15Mrm
+lhcPeoqvZheVDl9vz5CH98+5XFiwo8WpS3E/n/1wqqLzm9ZeFZ2VdLFhvP/7sZCx
+ImUsuaXrfHbhk7dJI5kP2/oruoTK6pfekfHhV6NN62O/AA==
+=A248
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dnlggr
+
+==================================================================
